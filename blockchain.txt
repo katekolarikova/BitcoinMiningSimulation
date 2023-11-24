@@ -1,0 +1,35 @@
+Block 0:
+Data: 6bea808858f38a6b33d091edeb25fa8c
+Previous Hash: 
+Nonce: 149
+Hash: 00247e11659955cc364d295e1c9bc07f3ce95e1151a9c245bdbd7a4903926807
+Difficulty: 2
+
+Block 1:
+Data: dba43cc2eb621ed5b9a5da9b45b57871
+Previous Hash: 00247e11659955cc364d295e1c9bc07f3ce95e1151a9c245bdbd7a4903926807
+Nonce: 792
+Hash: 000fa792ef8a2a71e78a9a39d73d6a602a50da6c34b97728a825f607f8a461ff
+Difficulty: 3
+
+Block 2:
+Data: f1b6048555472ee55adb87a4d4904ce9
+Previous Hash: 000fa792ef8a2a71e78a9a39d73d6a602a50da6c34b97728a825f607f8a461ff
+Nonce: 180363
+Hash: 0000d55415ee1a1375c06ddab1bc395cc16e0eaaec316982f6a992f7134d033a
+Difficulty: 4
+
+Block 3:
+Data: 24b4d10e6bc1a92e2bfeea94a0b3cad4
+Previous Hash: 0000d55415ee1a1375c06ddab1bc395cc16e0eaaec316982f6a992f7134d033a
+Nonce: 143
+Hash: 004ddac4b974829f4fd12d336615ed7f717aea51441312e6ddfe386d07304d7e
+Difficulty: 2
+
+Block 4:
+Data: 32734764db4afc1fddfcb869c42d4811
+Previous Hash: 004ddac4b974829f4fd12d336615ed7f717aea51441312e6ddfe386d07304d7e
+Nonce: 94464
+Hash: 0000167a491f72d819209732193d91a48f6bebc5eebfdb71cb4afb8b4cd413d3
+Difficulty: 4
+
